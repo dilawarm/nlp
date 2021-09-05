@@ -20,7 +20,7 @@ There are 4 courses in this specialization:
 * Use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships.
 * Write a simple English to French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbor search.
 
-### [Natural Language Processing with Probabilistic Models)(probabilistic_models/)
+### [Natural Language Processing with Probabilistic Models](probabilistic_models/)
 
 * Create a simple auto-correct algorithm using minimum edit distance and dynamic programming.
 * Apply the Viterbi Algorithm for part-of-speech (POS) tagging, which is important for computational linguistics.
